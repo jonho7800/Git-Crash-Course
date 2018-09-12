@@ -38,4 +38,7 @@ Setting Up (The Basics):
 - Downloading (Pulling)
   - It's as simple as "git pull". 
 
+- Misc.
+  - If you need a quick refresher on the git commands, just "git help". 
+
 
