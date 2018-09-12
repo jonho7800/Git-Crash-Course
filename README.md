@@ -40,5 +40,6 @@ Setting Up (The Basics):
 
 - Misc.
   - If you need a quick refresher on the git commands, just "git help". 
+  - Good tutorial on the basics: https://www.youtube.com/watch?v=0fKg7e37bQE 
 
 
