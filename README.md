@@ -36,5 +36,6 @@ Setting Up (The Basics):
   - Now, commit and push. 
   
 - Downloading (Pulling)
+  - It's as simple as "git pull". 
 
 
