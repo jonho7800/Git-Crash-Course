@@ -1,5 +1,3 @@
-# hello-world
-
 Hi, I'm Jon.
 
 In this repository (the first of many), I will only have 1 file - this README file. 
