@@ -20,6 +20,7 @@ Setting Up (The Basics):
 - Cloning (Clone and Status) 
   - To clone a repository from GitHub to your local storage (personal computer), use the clone command.
   - EX: git clone https://github.com/jonho7800/hello-world.git (the command to clone this very repo).
+  - Make sure when you clone, you clone in the folder you want the REPO to be placed in. 
   - To CHECK on the status of the contents within the repo, use "git status". 
   
 - Uploading (Add, Commitand, and Push) 
