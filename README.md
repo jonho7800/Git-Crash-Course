@@ -13,6 +13,7 @@ Setting Up (The Basics):
 
 - To find the folder that you have chosen to store your work in, use "cd" and "ls". 
   - "cd" stands for "change directory'. Use "cd" to locate your file. 
+  - EX: cd Desktop (then cd Github, then cd hello-world to get into the REPO)
   - "ls" stands for list. Use "ls" to list the files in the directory you are currently in.
   - Remember, "cd" INTO the REPO you are WORKING ON. 
 
